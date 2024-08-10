@@ -16,7 +16,7 @@ A simple Rock Paper Scissors game played in the browser console.
 
 1. Clone or download the repository.
 2. Open `index.html` in your browser.
-3. Open the developer console (`F12` or `Ctrl+Shift+I`).
+3. Open the developer console (`F12`.
 4. Follow the prompts to enter "rock", "paper", or "scissors".
 5. Play 5 rounds and see who wins!
 
